@@ -2,6 +2,7 @@
 常见鸟类辨识图鉴（伪）生成器
 
 都是中华田园企鹅(夜鹭)
+![image](https://github.com/litchiate/common-birds/edit/main/img/source.jpg)
 
 ## 使用方法
 
